@@ -1,5 +1,4 @@
 class FibonacciSequence
-# フィボナッチ数列
   def self.fibonacci_item(n)
     if n == 0 or n == 1 then
       return n
